@@ -1,0 +1,4 @@
+[submodule "ferro"]
+	path = ferro
+	url = https://github.com/ferro-project/ferro
+	ignore = all

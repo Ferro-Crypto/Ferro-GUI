@@ -1,0 +1,1 @@
+GUI_FERRO_VERSION=""
